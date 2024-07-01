@@ -1,1 +1,2 @@
 Hello there! Here is my first project in GIT. I am excited.
+I have added this line to my text file.
